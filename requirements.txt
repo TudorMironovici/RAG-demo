@@ -1,0 +1,7 @@
+streamlit
+langchain_community
+langchain_community
+langchain_postgres
+psycopg_binary
+psycopg2-binary
+pgvector
